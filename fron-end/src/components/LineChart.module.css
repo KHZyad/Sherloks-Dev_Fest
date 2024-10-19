@@ -1,0 +1,30 @@
+.LineChartContainer {
+  background-color: #111c44;
+  border-radius: 15px;
+}
+
+.cashFlowH2 {
+  color: white;
+  margin-left: 5%;
+}
+
+.selectStartEndDate {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 3%;
+}
+
+.selectStartDate {
+  width: fit-content;
+}
+
+.selectEndDate {
+  display: flex;
+  width: 40%;
+}
+
+.label {
+  margin-right: 10px;
+  margin-left: 10px;
+  color: white;
+}

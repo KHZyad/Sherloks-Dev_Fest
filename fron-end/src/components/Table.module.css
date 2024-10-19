@@ -1,0 +1,13 @@
+.datePickers {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 0%;
+}
+
+.incomeStatementH2 {
+  color: white;
+  margin-bottom: 0;
+  text-align: center;
+  /* text-decoration: underline; */
+  margin-bottom: 2%;
+}

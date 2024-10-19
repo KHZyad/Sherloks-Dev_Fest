@@ -1,0 +1,77 @@
+[
+  {
+    "id": "5a0b5b6f-7b1d-4c91-912e-e1b2a7e9e998",
+    "company_id": "1e3c4d5e-6f7g-8h9i-j0kl-1m2n3o4p5q6r",
+    "amount": 1500.0,
+    "type": "income",
+    "transaction_date": "2023-10-15",
+    "description": "Payment for services rendered",
+    "history": [
+      {
+        "date": "2023-10-15",
+        "amount": 1500.0,
+        "description": "Payment for services rendered"
+      }
+    ]
+  },
+  {
+    "id": "7d8e9f6g-7h1i-8j2k-9l0m-2n3o4p5q6r7s",
+    "company_id": "2a3b4c5d-6e7f-8g9h-i0jk-1l2m3n4o5p6q",
+    "amount": 2000.5,
+    "type": "expense",
+    "transaction_date": "2023-10-16",
+    "description": "Office supplies purchase",
+    "history": [
+      {
+        "date": "2023-10-16",
+        "amount": 2000.5,
+        "description": "Office supplies purchase"
+      }
+    ]
+  },
+  {
+    "id": "8f9g0h1i-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+    "company_id": "3d4e5f6g-7h8i-9j0k-l1m2-3n4o5p6q7r8s",
+    "amount": 3500.75,
+    "type": "income",
+    "transaction_date": "2023-10-17",
+    "description": "Consulting fees",
+    "history": [
+      {
+        "date": "2023-10-17",
+        "amount": 3500.75,
+        "description": "Consulting fees"
+      }
+    ]
+  },
+  {
+    "id": "9g0h1i2j-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+    "company_id": "4f5g6h7i-8j9k-0l1m-n2o3-4p5q6r7s8t9u",
+    "amount": 4500.0,
+    "type": "expense",
+    "transaction_date": "2023-10-18",
+    "description": "Marketing campaign",
+    "history": [
+      {
+        "date": "2023-10-18",
+        "amount": 4500.0,
+        "description": "Marketing campaign"
+      }
+    ]
+  },
+  {
+    "id": "0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+    "company_id": "5h6i7j8k-9l0m-n1o2-p3q4-5r6s7t8u9v0w",
+    "amount": 5000.0,
+    "type": "income",
+    "transaction_date": "2023-10-19",
+    "description": "Project delivery payment",
+    "history": [
+      {
+        "date": "2023-10-19",
+        "amount": 5000.0,
+        "description": "Project delivery payment"
+      }
+    ]
+  }
+]

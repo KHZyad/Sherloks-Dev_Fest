@@ -1,0 +1,26 @@
+[
+  {
+    "month": "2024-01",
+    "net_income": 20000
+  },
+  {
+    "month": "2024-02",
+    "net_income": 23000
+  },
+  {
+    "month": "2024-03",
+    "net_income": 25000
+  },
+  {
+    "month": "2024-04",
+    "net_income": 28000
+  },
+  {
+    "month": "2024-05",
+    "net_income": 22000
+  },
+  {
+    "month": "2024-06",
+    "net_income": 13000
+  }
+]

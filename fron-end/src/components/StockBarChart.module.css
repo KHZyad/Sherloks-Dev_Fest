@@ -1,0 +1,18 @@
+.BalanceSheet {
+  background-color: #111c44;
+  border-radius: 15px;
+  height: fit-content;
+}
+
+.BalanceSheetH2 {
+  color: white;
+  margin-left: 5%;
+  margin-bottom: 0;
+}
+
+.datePickers {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 0%;
+  margin-top: 5%;
+}

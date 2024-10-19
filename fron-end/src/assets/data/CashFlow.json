@@ -1,0 +1,14 @@
+[
+  { "month": "2024-01", "total_income": 50000, "total_expenses": 30000 },
+  { "month": "2024-02", "total_income": 55000, "total_expenses": 32000 },
+  { "month": "2024-03", "total_income": 60000, "total_expenses": 35000 },
+  { "month": "2024-04", "total_income": 65000, "total_expenses": 37000 },
+  { "month": "2024-05", "total_income": 70000, "total_expenses": 40000 },
+  { "month": "2024-06", "total_income": 75000, "total_expenses": 42000 },
+  { "month": "2024-07", "total_income": 80000, "total_expenses": 45000 },
+  { "month": "2024-08", "total_income": 85000, "total_expenses": 47000 },
+  { "month": "2024-09", "total_income": 90000, "total_expenses": 50000 },
+  { "month": "2024-10", "total_income": 95000, "total_expenses": 53000 },
+  { "month": "2024-11", "total_income": 100000, "total_expenses": 55000 },
+  { "month": "2024-12", "total_income": 105000, "total_expenses": 58000 }
+]

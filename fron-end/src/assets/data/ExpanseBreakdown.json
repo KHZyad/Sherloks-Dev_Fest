@@ -1,0 +1,8 @@
+[
+  { "category_name": "Salaries", "total_expense": 10000 },
+  { "category_name": "Rent", "total_expense": 5000 },
+  { "category_name": "Utilities", "total_expense": 1500 },
+  { "category_name": "Marketing", "total_expense": 3000 },
+  { "category_name": "Supplies", "total_expense": 1200 },
+  { "category_name": "Miscellaneous", "total_expense": 800 }
+]

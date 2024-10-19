@@ -1,0 +1,13 @@
+.netIncomeContainer {
+  background-color: #111c44;
+  border-radius: 15px;
+}
+.netIncomeH2 {
+  color: white;
+  margin-left: 5%;
+}
+.datePickers {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 3%;
+}

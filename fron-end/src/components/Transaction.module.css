@@ -1,0 +1,9 @@
+.transactiontH2 {
+  color: white;
+  margin-left: 3%;
+  /* margin-bottom: 2%; */
+}
+.tableButtons {
+  display: flex;
+  gap: 20px;
+}

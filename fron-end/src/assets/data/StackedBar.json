@@ -1,0 +1,74 @@
+[
+  {
+    "month": "2024-01",
+    "assets": 100000,
+    "liabilities": 50000,
+    "equity": 50000
+  },
+  {
+    "month": "2024-02",
+    "assets": 110000,
+    "liabilities": 52000,
+    "equity": 58000
+  },
+  {
+    "month": "2024-03",
+    "assets": 120000,
+    "liabilities": 55000,
+    "equity": 65000
+  },
+  {
+    "month": "2024-04",
+    "assets": 125000,
+    "liabilities": 57000,
+    "equity": 68000
+  },
+  {
+    "month": "2024-05",
+    "assets": 130000,
+    "liabilities": 60000,
+    "equity": 70000
+  },
+  {
+    "month": "2024-06",
+    "assets": 135000,
+    "liabilities": 62000,
+    "equity": 73000
+  },
+  {
+    "month": "2024-07",
+    "assets": 140000,
+    "liabilities": 65000,
+    "equity": 75000
+  },
+  {
+    "month": "2024-08",
+    "assets": 145000,
+    "liabilities": 68000,
+    "equity": 77000
+  },
+  {
+    "month": "2024-09",
+    "assets": 150000,
+    "liabilities": 70000,
+    "equity": 80000
+  },
+  {
+    "month": "2024-10",
+    "assets": 155000,
+    "liabilities": 72000,
+    "equity": 83000
+  },
+  {
+    "month": "2024-11",
+    "assets": 160000,
+    "liabilities": 75000,
+    "equity": 85000
+  },
+  {
+    "month": "2024-12",
+    "assets": 165000,
+    "liabilities": 77000,
+    "equity": 88000
+  }
+]

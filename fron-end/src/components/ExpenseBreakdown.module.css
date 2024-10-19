@@ -1,0 +1,12 @@
+.expenseBreakdownH2 {
+  color: white;
+  margin-left: 5%;
+  margin-bottom: 0;
+}
+
+.datePickers {
+  display: flex;
+  justify-content: space-around;
+  /* margin-bottom: 3%; */
+  margin-top: 3%;
+}
